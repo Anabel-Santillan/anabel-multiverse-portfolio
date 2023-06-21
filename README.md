@@ -1,7 +1,4 @@
 # Multiverse Final Portfolio
-
-
-## Table Of Contents
  
  ## Overview 
 
